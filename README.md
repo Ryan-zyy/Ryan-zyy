@@ -1,7 +1,7 @@
 ### Nice to meet you all. 👋
 
 <!--
-**LuckyAyan/LuckyAyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ryan-zyy/Ryan-zyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=LuckyAyan&theme=tokyonight&show_icons=true&icon_color=CE1D2D)
+![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=Ryan-zyy&theme=tokyonight&show_icons=true&icon_color=CE1D2D)
